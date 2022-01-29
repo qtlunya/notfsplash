@@ -1,0 +1,11 @@
+Package: net.cadoth.notfsplash
+Name: NoTFSplash
+Version: 0.1.0
+Architecture: iphoneos-arm
+Description: Get rid of annoying TestFlight splash screens
+Depiction: https://repo.cadoth.net/depictions/net.cadoth.notfsplash.html
+SileoDepiction: https://repo.cadoth.net/sileo-depictions/net.cadoth.notfsplash.json
+Maintainer: nyuszika7h <nyuszika7h@gmail.com>
+Author: nyuszika7h <nyuszika7h@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
